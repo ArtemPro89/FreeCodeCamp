@@ -5,3 +5,5 @@ function myOutfit() {
 const outerWear = "sweater"
   // Only change code above this line
   return outerWear;
+}
+myOutfit();
